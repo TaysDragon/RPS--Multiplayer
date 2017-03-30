@@ -1,0 +1,23 @@
+andrew
+
+bootstrap, reset, styles
+
+users in an array, 2 per array
+
+make html elemetns so I can add id's and classes to tie to functions
+var users
+rock, paper, scissors picture.
+layour for nav dive with 3 buttons
+instructions
+form to add name of users
+two rows with two colums, one ofr each player that shows what they selected
+that selection to tie to scoring
+display current score
+
+messenger window, for both parties
+
+
+play again or exit
+
+
+1:15pm
